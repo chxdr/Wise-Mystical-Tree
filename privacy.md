@@ -1,6 +1,6 @@
 **Privacy Policy for Wise Mystical Tree Discord Bot**
 
-Effective Date: [Date]
+Effective Date: October 9, 2023 ACST
 
 1. **Introduction**
 
@@ -41,6 +41,3 @@ Effective Date: [Date]
 10. **Legal Requirements**
 
     - We do not have specific legal requirements or regulations governing user data, as our data collection and usage are limited to enhancing the Bot's functionality.
-
-**Important Note:**
-- Replace "[Date]" with the effective date of your privacy policy.
